@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/omer/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_6a7fba902711d156f8ff69d87ee71e72e96f11a9.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e65de0aa3629e52ca80686789484b401845f100">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/instant-run_0ba152acdcec229325b71500f164344dd5257308.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_bee8c322a73e29354a6851c069428e4b5b46d36d.jar" />
+    </item>
+    <item
+        jar="/Users/omer/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.9.1/3dc0a3bea4f876c54846cd050e688f1bfc78fc96/jsoup-1.9.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/jsoup-1.9.1_e1981bce54da28ac88bd6c48602c7d5e1fe7dff3.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_69720bfff9d4fdc9fa31400c0e226146a49c4aa6.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_19f89ffa58c5950111a60d2d6b0f58978736ea32.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e84b96947b1f5eda1a88972136a57fa3ba9398bc">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d0165edfaa49f8afe1c95a60a0af0fa0ea319f7c.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/omer/Desktop/DonanimHaberRSS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_5fc1676adbc33123c017827261d1799a3197c0b6.jar" />
+    </item>
+
+</items>
